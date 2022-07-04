@@ -1,0 +1,18 @@
+Answer(8)-  %i is a format specifier. It is used to specify the integer type data.
+            %g is a format specifier. It is used to specify the float and double type data. %g represents the decimal format of answer.
+            %lf is a format specifier. It is used to specify the doube type data.
+
+Answer(10)-  Decimal to Binary conversion-
+
+             Divide the decimal number by 2.
+             Store the remainder in an array.
+             Repeat these 2 steps untill we get 0 as the final quotient.
+             Write the remainders in reverse order.
+             Ths is the binary equivalent of the given decimal no.
+
+             Binary to Decimal conversion-
+             
+             List out the powers of 2 from least signficant bit to most significant bit.
+             Multiply each digit in the binary number starting from the right with it's resprctive weight based on it's position.
+             Sum up all the products obtained for all the digits in the binary number.
+             The obtained result is decimal equivalent of the given binary number.
